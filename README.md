@@ -9,7 +9,7 @@
 
 <header>
   <h1>Olá, Mundo! 👋 Eu sou Pedro Billafranca</h1>
-   <h4>Atualmente estudando/cursando Desenvolvimento de Sistemas na ETEC e na E.E PEI - Professora Guiomar Rocha Rinaldi - EM, onde estou aprendendo os fundamentos do desenvolvimento de software — e literalmente tudo o que envolve tecnologia.</h4>
+   <h4>Atualmente estudando/cursando Desenvolvimento de Sistemas na ETEC-Uirapuru e na E.E PEI - Professora Guiomar Rocha Rinaldi - EM, onde estou aprendendo os fundamentos do desenvolvimento de software — e literalmente tudo o que envolve tecnologia.</h4>
 </header>
 
 <section>
