@@ -16,9 +16,9 @@
   <h2>🧠 O que Estou Aprendendo</h2>
   <ul>
     <li>💻 HTML, CSS e JavaScript – Utilizo essas tecnologias para criar páginas web simples e responsivas, e também para estudar front-end com o intuito de iniciar projetos.</li>
-    <li>☕ Java, Python – Estou estudando Java e python para entender programação orientada a objetos e desenvolvimento backend.</li>
-    <li>🎓 Concluí um curso profissionalizante de Programação Orientada a Objetos pela Fundação Bradesco.</li>
-    <li>💻 No momento, o front-end é onde eu mais tenho conhecimento.</li>
+    <li>☕ Java, Python e javaScript – Estou estudando Java, python e javaScript para entender programação orientada a objetos e desenvolvimento backend.</li>
+    <li>🎓 Concluí um curso profissionalizante de Programação Orientada a Objetos pela Fundação Bradesco. Onde o foco é Java.</li>
+    <li>💻 Pretendo expandir meu conhecimento em UI/UX para aprimorar a interface e a performance do software, garantindo que os usuários tenham a melhor experiência possível ao interagir com o site/aplicativo e vê-lo da melhor maneira.</li>
   </ul>
 </section>
 
