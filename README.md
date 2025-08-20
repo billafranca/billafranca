@@ -8,13 +8,13 @@
 <body>
 
 <header>
-  <h1>Olá, Mundo! 👋 Eu sou Pedro Billafranca</h1>
+  <h1>Olá, Devs! 👋 Eu sou Pedro Billafranca</h1>
    <h4>Atualmente cursando Desenvolvimento de Sistemas na ETEC-Uirapuru. e itinerário informativo (E.M)</h4>
   <h3>Foco em linguagens como Java | JavaScript | python</h3>
 </header>
 
 <section>
-  <h2>🧠 O que Estou Aprendendo</h2>
+  <h2>O que Estudo</h2>
   <ul>
     <li>Front-end</li>
     <li>☕ Java, Python e javaScript – Estou estudando Java, python e javaScript para entender programação orientada a objetos e desenvolvimento backend.</li>
