@@ -25,9 +25,10 @@
 <section>
   <h3>📫 Vamos nos Conectar!</h3>
   <div class="contact-info">
-    <p>Email: <a href="mailto:bragap379@gmail.com">bragap379@gmail.com</a></p>
-    <p>LinkedIn: <a href="https://www.linkedin.com/in/pedro-billafranca" target="_blank">Pedro Billafranca</a></p>
-    <p>Instagram: <a href="https://instagram.com/p.billafranca" target="_blank">@p.billafranca</a></p>
+    <p align="left">
+<a href="https://linkedin.com/in/pedro billafranca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro billafranca" height="30" width="40" /></a>
+<a href="https://instagram.com/p.billafranca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p.billafranca" height="30" width="40" /></a>
+</p>
   </div>
 </section>
 
