@@ -25,7 +25,7 @@
 <section>
   <h3>📫 Vamos nos Conectar!</h3>
   <p align="left">
-<a href="https://linkedin.com/in/pedro billafranca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro billafranca" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pedro billafranca" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro billafranca" height="30" width="40" /></a>
 </p>
       
 <a href="https://instagram.com/p.billafranca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p.billafranca" height="30" width="40" /></a>
