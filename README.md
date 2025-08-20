@@ -9,7 +9,7 @@
 
 <header>
   <h1>Olá, Devs! 👋 Eu sou Pedro Billafranca</h1>
-   <h4>Atualmente cursando Desenvolvimento de Sistemas na ETEC-Uirapuru. e itinerário informativo (E.M)</h4>
+   <h4>Atualmente cursando Desenvolvimento de Sistemas na ETEC. e itinerário informativo (E.M)</h4>
   <h3>Foco em linguagens como Java | JavaScript | python</h3>
 </header>
 
