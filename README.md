@@ -9,44 +9,18 @@
 
 <header>
   <h1>Olá, Mundo! 👋 Eu sou Pedro Billafranca</h1>
-   <h4>Atualmente estudando/cursando Desenvolvimento de Sistemas na ETEC-Uirapuru e na E.E PEI - Professora Guiomar Rocha Rinaldi - EM, onde estou aprendendo os fundamentos do desenvolvimento de software — e literalmente tudo o que envolve tecnologia.</h4>
+   <h4>Atualmente cursando Desenvolvimento de Sistemas na ETEC-Uirapuru. e itinerário informativo (E.M)</h4>
+  <h3>Foco em linguagens como Java | JavaScript | python</h3>
 </header>
 
 <section>
   <h2>🧠 O que Estou Aprendendo</h2>
   <ul>
-    <li>💻 HTML, CSS e JavaScript – Utilizo essas tecnologias para criar páginas web simples e responsivas, e também para estudar front-end com o intuito de iniciar projetos.</li>
+    <li>Front-end</li>
     <li>☕ Java, Python e javaScript – Estou estudando Java, python e javaScript para entender programação orientada a objetos e desenvolvimento backend.</li>
-    <li>🎓 Concluí um curso profissionalizante de Programação Orientada a Objetos pela Fundação Bradesco. Onde o foco é Java.</li>
-    <li>💻 Pretendo expandir meu conhecimento em UI/UX para aprimorar a interface e a performance do software, garantindo que os usuários tenham a melhor experiência possível ao interagir com o site/aplicativo e vê-lo da melhor maneira.</li>
+    
   </ul>
 </section>
-
-<section>
-  <h2>🚀 Meus Objetivos e Como Estou Trabalhando para Alcançá-los</h2>
-  <p>Enquanto continuo crescendo como um desenvolvedor aprendiz, meus objetivos são aprimorar minhas habilidades em front-end e back-end. Estou disposto a dedicar horas do meu tempo livre para estudar e aprender mais sobre a área. Também quero colaborar com outros desenvolvedores, contribuir para projetos relevantes e, quem sabe, inspirar outras pessoas que estão começando assim como eu.</p>
-</section>
-
-<h2>Resumo</h2>
-📚 Formação e Foco
-
-- Estudante de Desenvolvimento de Sistemas na ETEC-Uirapuru
-
-- Foco em Java, JavaScript, Python, HTML e CSS
-
-💡 Habilidades e Competências
-
-- Criação de soluções inovadoras para melhorar a experiência do usuário
-
-- Experiência em trabalho em equipe e colaboração em projetos práticos
-
-- Comprometido com a entrega de resultados eficientes e de alta qualidade
-
-🎨 Aperfeiçoamento Contínuo
-
-- Buscando aprimorar conhecimentos em UI/UX para otimizar interfaces
-
-- Foco na melhoria da performance de softwares e na experiência de interação do usuário
 
 <section>
   <h3>📫 Vamos nos Conectar!</h3>
