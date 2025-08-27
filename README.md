@@ -16,10 +16,10 @@
 <section>
   <h2>O que estudo</h2>
   <ul>
-    <li>Front-end</li>
     <li>☕Estudo Java para aprofundar meus conhecimentos em programação orientada a objetos, <b>desenvolvimento backend e microsserviços</b>. Ao mesmo tempo, me dedico ao JavaScript com foco na criação de aplicações front-end, buscando uma formação completa em desenvolvimento web e outros serviços.</li>
     <li>Banco de dados - (mySQL) </li>
     <li>Desenvolvimento mobile - (java).</li>
+    <li>Programação orientada a objetos (POO) - Java</li>
   </ul>
 </section>
 
