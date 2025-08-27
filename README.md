@@ -8,18 +8,18 @@
 <body>
 
 <header>
-  <h1>Olá, Devs! 👋 Eu sou Pedro Billafranca</h1>
+  <h1>Hi, Devs! 👋 Eu sou Pedro Billafranca</h1>
    <h4>Atualmente cursando Desenvolvimento de Sistemas na ETEC, e itinerário técnico (E.M)</h4>
   <h3>Foco em linguagens como Java | JavaScript | python</h3>
 </header>
 
 <section>
-  <h2>O que Estudo</h2>
+  <h2>O que estudo</h2>
   <ul>
     <li>Front-end</li>
-    <li>☕ Java, Python e javaScript – Estou estudando Java, python e javaScript para entender programação orientada a objetos e desenvolvimento backend.</li>
-    <li>Banco de dados</li>
-    <li>Sistemas embarcados</li>
+    <li>☕Estudo Java para aprofundar meus conhecimentos em programação orientada a objetos e desenvolvimento backend. Ao mesmo tempo, me dedico ao JavaScript com foco na criação de aplicações front-end, buscando uma formação completa em desenvolvimento web e outros serviços.</li>
+    <li>Banco de dados - (mySQL) </li>
+    <li>Desenvolvimento mobile - (java).</li>
   </ul>
 </section>
 
