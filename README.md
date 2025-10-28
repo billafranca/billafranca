@@ -20,7 +20,7 @@
 <section>
   <h2>Estudo: </h2>
   <ul>
-    <li>javaScript - Desenvolvimento Web | nodeJS</li>
+    <li>javaScript - Desenvolvimento Web</li>
     <li>Banco de dados - (mySQL) </li> 
     <li>Desenvolvimento mobile - (java).</li>
     <li>Programação orientada a objetos (POO) - Java</li>
