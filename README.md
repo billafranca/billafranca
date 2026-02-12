@@ -10,7 +10,7 @@
 <header>
   <h1>Olá, Devs! 👋 Eu sou Pedro Billafranca</h1>
    <h4>Atualmente cursando Desenvolvimento de Sistemas na ETEC, e itinerário técnico de Desenvolvimento de Sistemas integrado ao ensino médio(E.M)</h4>
-  Foco em linguagens como Java | JavaScript.  
+  Foco em linguagens como Java | JavaScript | Python.  
 
   [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) 
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
@@ -21,6 +21,7 @@
   <h2>Estudo: </h2>
   <ul>
     <li>javaScript - Desenvolvimento Web</li>
+    <li>Python - Análise de dados e automações</li>
     <li>Banco de dados - (mySQL) </li> 
     <li>Desenvolvimento mobile - (java).</li>
     <li>Programação orientada a objetos (POO) - Java</li>
