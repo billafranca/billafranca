@@ -8,7 +8,7 @@
 <body>
 
 <header>
-  <h1>Olá,Eu sou Pedro Billafranca</h1>
+  <h1>Olá, Eu sou Pedro Billafranca</h1>
    <h4>Atualmente cursando Desenvolvimento de Sistemas na ETEC, e itinerário técnico de Desenvolvimento de Sistemas integrado ao ensino médio(ETIM)</h4>
   Foco em linguagens como Java | JavaScript | Python.  
 
