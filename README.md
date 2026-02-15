@@ -23,7 +23,7 @@
     <li>Python – Scripts de automação, manipulação e organização de dados</li>
     <li>MySQL – Modelagem relacional básica, normalização e consultas SQL </li> 
     <li>Java – Fundamentos para aplicações Android e estruturação orientada a objetos</li>
-    
+    </ul>
     <h2>Fundamentos de software</h2>
     
     <li>POO (Java) – Classes, encapsulamento, herança e organização de código</li>
@@ -31,7 +31,7 @@
     
     <li>Linux & CLI – Uso diário do terminal, manipulação de arquivos e permissões</li>
 
-  </ul>
+
 </section>
 
 <section>
