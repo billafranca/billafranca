@@ -25,6 +25,9 @@
     <li>Banco de dados - (mySQL) </li> 
     <li>Desenvolvimento mobile - (java).</li>
     <li>Programação orientada a objetos (POO) - Java</li>
+    <li>Linux & CLI
+Uso diário do terminal para desenvolvimento, manipulação de arquivos, permissões</li>
+
   </ul>
 </section>
 
