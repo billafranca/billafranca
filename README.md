@@ -19,25 +19,27 @@
 <section>
   <h2>Estudo: </h2>
   <ul>
-    <li>JavaScript – Manipulação de DOM, lógica de aplicação e integração com back-end</li>
-    <li>Python – Scripts de automação, manipulação e organização de dados</li>
-    <li>MySQL – Modelagem relacional básica, normalização e consultas SQL </li> 
-    <li>Java – Fundamentos para aplicações Android e estruturação orientada a objetos</li>
+    <li>JavaScript – Manipulação de DOM, lógica de aplicação e integração com back-end.</li>
+    <li>Python – Scripts de automação, manipulação e organização de dados.</li>
+    <li>MySQL – Modelagem relacional básica, normalização e consultas SQL. </li> 
+    <li>Java – Fundamentos para aplicações Android e estruturação orientada a objetos.</li>
     
   </ul>
   
   <h2>Fundamentos de software</h2>
     
-  <li>POO (Java) – Classes, encapsulamento, herança e organização de código</li>
+  <li>POO (Java) – Classes, encapsulamento, herança e organização de código.</li>
   
   <h2>Ambiente de desenvolvimento</h2>
     
-  <li>Linux & CLI – Uso diário do terminal, manipulação de arquivos e permissões</li>
+  <li>Linux & CLI – Uso diário do terminal, manipulação de arquivos e permissões.</li>
+  
 
 
 </section>
 
 <section>
+  
   📫 Conectar
   
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://br.linkedin.com/in/pedro-billafranca-833422356)
