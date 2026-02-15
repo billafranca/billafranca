@@ -9,7 +9,7 @@
 
 <header>
   <h1>Olá, Eu sou Pedro Billafranca</h1>
-   <h4> Estudante de Desenvolvimento de Sistemas (ETEC – ETIM) com foco em desenvolvimento de software, análise de dados e modelagem de sistemas.</h4>
+   <h4> Estudante de Desenvolvimento de Sistemas (ETEC – ETIM) com foco em desenvolvimento de software, modelagem de sistemas e integração entre aplicações.</h4>
 
   [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) 
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
@@ -17,22 +17,20 @@
 </header>
 
 <section>
-  <h2>Estudo: </h2>
+  <h2>💻 Desenvolvimento de Software</h2>
   <ul>
-    <li>JavaScript – Manipulação de DOM, lógica de aplicação e integração com back-end.</li>
-    <li>Python – Scripts de automação, manipulação e organização de dados.</li>
-    <li>MySQL – Modelagem relacional básica, normalização e consultas SQL. </li> 
-    <li>Java – Fundamentos para aplicações Android e estruturação orientada a objetos.</li>
-    
+    <li>JavaScript – Manipulação de DOM e consumo de APIs.</li>
+    <li>Python – Automações e manipulação de dados.</li>
+    <li>MySQL – Modelagem relacional, normalização e consultas SQL. </li> 
+    <li> Java – Programação Orientada a Objetos e estruturação de aplicações com integração MySQL.</li>
 
   
-<h2>Fundamentos de software</h2>
-    
-  <li>POO (Java) – Classes, encapsulamento, herança e organização de código.</li>
   
-<h2>🐧 Ambiente de desenvolvimento</h2>
+<h2>🐧 Ambiente & Ferramentas</h2>
     
-  <li>Linux & CLI – Uso diário do terminal, manipulação de arquivos e permissões.</li>
+  <li>Linux & CLI – Uso diário do terminal.</li>
+  
+  <li>Git & GitHub – Controle de versão e organização de projetos.</li>
   
 </ul>
   
