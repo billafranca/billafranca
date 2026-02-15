@@ -31,7 +31,6 @@
   
   <li>Git & GitHub – Controle de versão e organização de projetos.</li>
   
-    </ul>
   
 </section>
 
