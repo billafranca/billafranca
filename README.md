@@ -24,7 +24,7 @@
     <li>MySQL – Modelagem relacional básica, normalização e consultas SQL. </li> 
     <li>Java – Fundamentos para aplicações Android e estruturação orientada a objetos.</li>
     
-  </ul>
+
   
   <h2>Fundamentos de software</h2>
     
@@ -33,6 +33,8 @@
   <h2>Ambiente de desenvolvimento</h2>
     
   <li>Linux & CLI – Uso diário do terminal, manipulação de arquivos e permissões.</li>
+  
+</ul>
   
 
 
