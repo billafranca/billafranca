@@ -9,7 +9,7 @@
 
 <header>
   <h1>Olá, Eu sou Pedro Billafranca</h1>
-   <h4> Estudante de Desenvolvimento de Sistemas (ETEC – ETIM) com foco em back-end, automação e estruturação de aplicações com boas práticas.</h4>
+   <h4> Estudante de Desenvolvimento de Sistemas (ETEC – ETIM) com foco em desenvolvimento de software, análise de dados e modelagem de sistemas.</h4>
 
   [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) 
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
