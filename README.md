@@ -23,19 +23,16 @@
     <li>Python – Automações e manipulação de dados.</li>
     <li>MySQL – Modelagem relacional, normalização e consultas SQL. </li> 
     <li> Java – Programação Orientada a Objetos e estruturação de aplicações com integração MySQL.</li>
+   </ul>
 
-  
-  
 <h2>🐧 Ambiente & Ferramentas</h2>
-    
+    <ul>
   <li>Linux & CLI – Uso diário do terminal.</li>
   
   <li>Git & GitHub – Controle de versão e organização de projetos.</li>
   
-</ul>
+    </ul>
   
-
-
 </section>
 
 <section>
