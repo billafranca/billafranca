@@ -19,7 +19,7 @@
 <section>
   <h2>💻 Desenvolvimento de Software</h2>
   <ul>
-    <li>JavaScript – Manipulação de DOM e consumo de APIs.</li>
+    <li>JavaScript – Manipulação de DOM, consumo de APIs, desenvolvimento de software full-stack</li>
     <li>Python – Automações e manipulação de dados.</li>
     <li>MySQL – Modelagem relacional, normalização e consultas SQL. </li> 
     <li> Java – Programação Orientada a Objetos e estruturação de aplicações com integração MySQL.</li>
