@@ -59,3 +59,6 @@
    [![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white)](#)
    [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=billafranca&show_icons=true&theme=dark&locale=en&layout=compact" alt="billafranca" /></p>
+
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
