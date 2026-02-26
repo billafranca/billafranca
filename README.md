@@ -11,8 +11,7 @@
   <h1>Olá, Eu sou Pedro Billafranca</h1>
    <h4> Estudante de Desenvolvimento de Sistemas (ETEC – ETIM) com foco em desenvolvimento de software, modelagem de sistemas e integração entre aplicações.</h4>
 
-  [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) 
-  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+  <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
   
 
 </header>
@@ -61,4 +60,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=billafranca&show_icons=true&theme=dark&locale=en&layout=compact" alt="billafranca" /></p>
 
 
-<img src="https://raw.githubusercontent.com/billafranca/billafranca/output/snake.svg" alt="Snake animation"/>
+
