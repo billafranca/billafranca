@@ -13,14 +13,15 @@
 
   [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) 
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+  
 
 </header>
 
 <section>
   <h2>💻 Desenvolvimento de Software</h2>
   <ul>
-    <li>JavaScript – Manipulação de DOM, consumo de APIs, desenvolvimento de software full-stack</li>
-    <li>Python – Automações e manipulação de dados.</li>
+    <li>JavaScript – desenvolvimento de software full-stack</li>
+    <li>PHP – Desenvolvimento back-end.</li>
     <li>MySQL – Modelagem relacional, normalização e consultas SQL. </li> 
     <li> Java – Programação Orientada a Objetos e estruturação de aplicações com integração MySQL.</li>
    </ul>
