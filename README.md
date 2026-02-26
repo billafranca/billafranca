@@ -61,4 +61,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=billafranca&show_icons=true&theme=dark&locale=en&layout=compact" alt="billafranca" /></p>
 
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/billafranca/billafranca/output/snake.svg" alt="Snake animation"/>
