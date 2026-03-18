@@ -52,9 +52,8 @@
 
 <h2>🐧 Ambiente & Ferramentas</h2>
     <ul>
-  <li>Linux & CLI – Uso diário do terminal.</li>
-  <li>JavaScript - Ecossistema JS.
-  <li>Git & GitHub – Controle de versão e organização de projetos.</li>
+  <li>Linux & CLI</li>
+  <li>Git & GitHub</li>
   
   
 </section>
