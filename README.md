@@ -8,8 +8,8 @@
 <body>
 
 <header>
-  <h1>Olá, Eu sou Pedro Billafranca</h1>
-   <h4> Estudante de Desenvolvimento de Sistemas (ETEC – ETIM) com foco em desenvolvimento de software, modelagem de sistemas e integração entre aplicações.</h4>
+  <h1>Hello, I am Pedro Billafranca</h1>
+   <h4>Student of Systems Development (ETEC – ETIM) focused on software development, system modeling, and integration between applications./h4>
 
   👨‍💻 [portfolio-billafranca.vercel.app](portfolio-billafranca.vercel.app)
 
@@ -42,15 +42,15 @@
 </header>
 
 <section>
-  <h2>💻 Desenvolvimento de Software</h2>
+  <h2>💻 Software Development</h2>
   <ul>
-    <li>JavaScript – desenvolvimento de software full-stack | nodejs | vue.js</li>
-    <li>PHP – Desenvolvimento back-end.</li>
-    <li>MySQL – Modelagem relacional, normalização e consultas SQL. </li> 
-    <li> Java – Programação Orientada a Objetos e estruturação de aplicações com integração MySQL.</li>
+    <li>JavaScript – Full-stack software development | Node.js | Vue.js</li>
+    <li>PHP – Back-end development</li>
+    <li>MySQL – Relational modeling, normalization, and SQL queries </li> 
+    <li> Java – Object-Oriented Programming, mobile development and application structuring with MySQL integration</li>
    </ul>
 
-<h2>🐧 Ambiente & Ferramentas</h2>
+<h2>🐧 Enviroment & Tools</h2>
     <ul>
   <li>Linux & CLI</li>
   <li>Git & GitHub</li>
@@ -62,7 +62,7 @@
   
   
   
-  📫 Conectar
+  📫 Connect
   
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://br.linkedin.com/in/pedro-billafranca-833422356)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://br.instagram.com/pedro-braga)
@@ -82,7 +82,7 @@
    [![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white)](#)
    [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
-  🐧 Ferramentas
+  🐧 Tools
    
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  </p>
 
