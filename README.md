@@ -15,25 +15,21 @@
 
  <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge"/>
   </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-
 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge"/>
   </a>
 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
     
   </a>
    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+     <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge"/> 
   </a>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge"/>
 
 </p>
 
@@ -46,8 +42,8 @@
   <ul>
     <li>JavaScript – Full-stack software development | Node.js | Vue.js</li>
     <li>PHP – Back-end development</li>
-    <li>MySQL – Relational modeling, normalization, and SQL queries </li> 
-    <li> Java – Object-Oriented Programming, mobile development and application structuring with MySQL integration</li>
+    <li>PostgreeSql – Relational modeling, normalization, and SQL queries </li> 
+    <li>Java – Object-Oriented Programming, mobile development and application structuring with MySQL integration</li>
    </ul>
 
 <h2>🐧 Enviroment & Tools</h2>
@@ -84,7 +80,7 @@
 
   🐧 Tools
    
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  </p>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-E34F26?logo=linux&logoColor=black&style=for-the-badge"/> </a>  </p>
 
 
 
