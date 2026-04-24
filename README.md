@@ -47,7 +47,8 @@
   
   📫 Connect
   
-  [![My Skills](https://skillicons.dev/icons?i=instagram,linkedin,leetcode,x&theme=dark)](https://br.linkedin.com/in/pedro-billafranca-833422356)
+  [![My Skills](https://skillicons.dev/icons?i=linkedin,leetcode,x&theme=dark)](https://br.linkedin.com/in/pedro-billafranca-833422356)
+  [![My Skills](https://skillicons.dev/icons?i=instagram,x&theme=dark)](https://instagram.com/p.billafranca)
 
 
   </div>
