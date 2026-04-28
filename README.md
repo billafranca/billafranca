@@ -9,7 +9,7 @@
 
 <header>
   <h1>Hello, I am Pedro Billafranca</h1>
-   <h4>Student of Systems Development (ETEC – ETIM) focused on software development, system modeling, and integration between applications.</h4>
+   <h4>Systems Development technician at ETEC focused on software development, system modeling, and integration between applications.</h4>
 
   👨‍💻 [portfolio-billafranca.vercel.app](portfolio-billafranca.vercel.app)
   
